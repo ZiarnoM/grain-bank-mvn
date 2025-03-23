@@ -1,9 +1,0 @@
-<#include "_head">
-
-<h2>Welcome to Grain Bank cash machine</h2>
-
-<form action="card_in" method="post">
-<input type="submit" name="card_in" value="Insert card">
-</form>
-
-<#include "_foot">
